@@ -1,6 +1,6 @@
 # Sudanese_Music_Dataset_Haqeeba
 
-Small audio Dataset of the Sudanese songs for Music Information Retrieval (MIR) purposes.
+Audio Dataset of the Sudanese songs for Music Information Retrieval (MIR) purposes.
 I created this dataset, in collaboration with my co-supervisor and friend Mohamed Ali, for my masters research project where I'm trying to create a corpora for Sudanese Music through labelling and organizing the collections of the Sudanese songs in a structured way using unsupervised machine learning techniques.
 
 The repository has these files:
