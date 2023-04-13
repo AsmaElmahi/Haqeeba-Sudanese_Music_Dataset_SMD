@@ -7,8 +7,6 @@ The repository has these files:
 - 1348 raw audio files in a .wav format (the orignal files were 674, 30 seconds were taken from the beginning and the early middle of each track, as most of the Sudanese songs are long in duration and the composition of the music might change throughout the song), as due to size limitations, the audio files are shared on a google drive link below.
 - Higher level features extracted using mainly SpotifyAPI, in a .csv file.
 - Lower level features extracted using Librosa.
-- Acapella version of the songs (only vocals)
-- Karaoke version of the songs (only instrumental music)
 - Full-duration original songs
 
 
