@@ -17,10 +17,8 @@ The dataset has been organized using unsupervised clustering and was labelled in
 4) Mello Upbeat Acoustic
 5) Fast Festive Danceable
 
+Please Contact the researcher for accessing the dataset.
 
-The link for the raw audio clips in all versions and sizes:
-
-https://drive.google.com/drive/folders/1TwghPa7NEclDJDqtqDqG0njkZY2HjyFr?usp=share_link
 
 
 
